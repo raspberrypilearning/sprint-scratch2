@@ -100,7 +100,7 @@ end
 
 --- task ---
 
-Test your project again and you shoud see the finish line move down the stage towards you.
+Test your project again and you should see the finish line move down the stage towards you.
 
 ![finish lines moves down the road](images/sprint-line-fix-test.png)
 
