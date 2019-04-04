@@ -1,6 +1,6 @@
-# sprint-scratch2
+# Sprint scratch2
 
-![sprint-scratch2](banner.png)
+![sprint](en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/sprint-scratch2](https://projects.raspberrypi.org/en/projects/sprint-scratch2)
 
@@ -11,4 +11,4 @@ For project materials and solutions, see [en/resources](https://github.com/raspb
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
- See [LICENSE.md](LICENSE.md)
+See [LICENSE.md](LICENSE.md)
